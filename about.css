@@ -1,0 +1,10 @@
+h1{
+    border: 2px solid red;
+    text-align: center;
+    background-color: rgb(228, 243, 243);
+}
+.move{
+    color: blue;
+    border: 1px solid green;
+    background-color: rgb(235, 193, 193);
+}
